@@ -2,8 +2,6 @@
 
 import cv2
 import numpy as np
-from google.colab.patches import cv2_imshow
-from google.colab import files
 
 # 1a. GRAYSCALE CONVERSION
 uploaded = files.upload()
